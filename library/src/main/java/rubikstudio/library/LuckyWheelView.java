@@ -12,7 +12,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import java.util.List;
+import java.util.*;
 
 import rubikstudio.library.model.LuckyItem;
 
